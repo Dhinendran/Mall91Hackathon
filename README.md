@@ -8,7 +8,9 @@ The concept is to extract text from image, converting any multi-lingual text to 
 - Google API (Translator API,Image Vision) 
 - NLTK
 - Numpy
-- Pandas
+- Pandas</br>
+
 <b> Architecture </b> </br>
 
-<a href="https://github.com/Dhinendran/Mall91Hackathon/blob/master/Architecture.png"><
+<a href="https://github.com/Dhinendran/Mall91Hackathon/blob/master/Architecture.png">
+  <img src="https://github.com/Dhinendran/Mall91Hackathon/blob/master/Architecture.png?" alt="Illustration" width="600px"/>
