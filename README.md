@@ -9,4 +9,6 @@ The concept is to extract text from image, converting any multi-lingual text to 
 - NLTK
 - Numpy
 - Pandas
-# Architecture
+<b> Architecture </b> </br>
+
+<a href="https://github.com/Dhinendran/Mall91Hackathon/blob/master/Architecture.png"><
